@@ -39,21 +39,3 @@
 \tableofcontents
 \clearpage
 \begin{multicols}{3}
-
-\section{Miro Jaroš}
-    \input{balon.tex}
-    \input{ciste_rucky.tex}
-    \input{dospely.tex}
-    \input{u_doktora.tex}
-
-\section{Horkýže slíže}
-
-\section{Ostatné}
-    \setleadsheets{title-template = other}
-    \input{blondava.tex}
-    \input{too_fast.tex}
-
-
-
-\end{multicols}
-\end{document}
