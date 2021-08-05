@@ -1,0 +1,59 @@
+\documentclass[a4paper]{article}
+\usepackage[czech]{babel}
+
+\usepackage{leadsheets}
+\usepackage[landscape]{geometry}
+\usepackage{multicol}
+
+\setleadsheets{
+  title-template= custom ,
+  info/format = \itshape ,
+  align-chords = l ,
+  chorus/name = R ,
+  bridge/name = B ,
+  intro/name = I ,
+}
+\definesongtitletemplate{custom}{
+  \ifsongmeasuring{}{
+    \subsection{\songproperty{title}}
+  }
+}
+\definesongtitletemplate{other}{
+    \ifsongmeasuring{}{
+    \subsection{\songproperty{title}\ifsongproperty{band}{ (\songproperty{band})}{}}
+  }
+}
+
+\setchords{
+  minor = mi ,
+}
+
+\title{Fajný spevník}
+\author{Dušan a Merlin}
+\date{}
+
+
+\begin{document}
+\maketitle
+\clearpage
+\tableofcontents
+\clearpage
+\begin{multicols}{3}
+
+\section{Miro Jaroš}
+    \input{balon.tex}
+    \input{ciste_rucky.tex}
+    \input{dospely.tex}
+    \input{u_doktora.tex}
+
+\section{Horkýže slíže}
+
+\section{Ostatné}
+    \setleadsheets{title-template = other}
+    \input{blondava.tex}
+    \input{too_fast.tex}
+
+
+
+\end{multicols}
+\end{document}

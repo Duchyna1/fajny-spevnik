@@ -1,0 +1,111 @@
+\documentclass[a4paper]{article}
+
+\usepackage[ngerman]{babel}
+\usepackage{leadsheets}
+\usepackage[landscape, twocolumn]{geometry}
+
+\definesongtitletemplate{custom}{
+  \ifsongmeasuring{}{
+    \section{\songproperty{title}\ifsongproperty{band}{ (\songproperty{band})}{}}
+  }
+}
+\setleadsheets{
+  title-template=custom ,
+  info/format = \itshape ,
+  align-chords = l ,
+}
+
+
+\begin{document}
+\setchords{
+  minor = mi ,
+}
+\begin{song}[
+    remember-chords = true ,
+    verse/numbered = true ,
+    transpose-capo = true 
+  ]{
+    title = Blonďavá,
+    band = Kýbel mačiek,
+    %capo = 1 ,
+    key  = Fmi
+  }
+    %\begin{info}
+    %    \capo
+    %\end{info}
+    
+    \begin{intro}
+        ^{Ami} ^{F} ^{C} ^{G}
+    \end{intro}
+    
+    \begin{verse}
+        ^{Ami}Lucia ^{F}ja ťa stem, \\
+        ^{C}s tebú je ^{G}krajší deň, \\
+        ^{Ami}najradšej mám ^{F}té tvoje vlasy, \\
+        ^{C}sú prefarbené asi..
+    \end{verse}
+        
+    \begin{chorus}
+        ^{Ami}Som blonďavá, ^{F} \\
+        ^{C}som blonďavá, ^{G} \\
+        ^{Ami}Som blonďavá, ^{F} \\
+        ^{C}som blonďavá. ^{G}
+    \end{chorus}
+    
+    \begin{verse}
+        Lucia ja ťa stem, \\
+        kúpim ti nový fén, \\
+        vyfénuj si tie tvoje vlasy, \\
+        sú žlté jak poľné klasy.
+    \end{verse}
+    
+    \begin{chorus}
+    \end{chorus}
+    
+    \begin{verse}
+        Bývaš pri Veľkom Kýri, \\
+        v ofine máš vlasy štyri, \\
+        zebérem ťa na výlet do Brna, \\
+        kúpim ti kilo zrna
+    \end{verse}
+    
+    \begin{chorus}
+    \end{chorus}
+    
+    \begin{verse}
+        Lucia ja ťa stem, \\
+        kúpim ti štyrikrém! \\
+        (To čo je? Ti nevieš čo to je? Nie. Však to je úplne jasné!) \\
+        To je krém na vlasy zo severnej Kambodže, \\
+        ten ti isto pomôže! 
+    \end{verse}
+    
+    \begin{chorus}
+    \end{chorus}
+    
+    \begin{verse}
+        Lucia ja ťa stem, \\
+        se mnú sa točí zem, \\
+        tvoja krása mi otvorila tlamu, \\
+        na hlave máš septembrovú slamu!
+    \end{verse}
+    
+    \begin{verse}
+        Lucia ja ťa stem, \\
+        zložil som ti refrén, \\
+        a ja k tomu dáke slohy, \\
+        lúbia sa mi tvoje nohy!
+    \end{verse}
+    
+    \begin{chorus}
+    \end{chorus}
+    
+    \begin{verse}
+        Som blondavá, jak poľné klasy, \\
+        Blonďavá, mám žlté vlasy, \\
+        Blonďavá, čo už narobím, \\
+        som blonďavá..
+    \end{verse}
+    
+\end{song}
+\end{document}
