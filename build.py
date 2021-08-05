@@ -2,7 +2,7 @@ import os
 
 other = ".\Ostatné"
 
-main = open("./ma.tex","w",encoding="UTF-16")
+main = open("./main.tex","w",encoding="UTF-16")
 main.write("\n")
 h = open("./header.txt","r",encoding = "UTF-8")
 _h = h.readlines()
