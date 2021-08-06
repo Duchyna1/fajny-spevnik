@@ -13,12 +13,12 @@ rootDir = '.'
 exclude = [".git"]
 for dirName, subdirList, fileList in os.walk(rootDir):
     print(dirName)
-    subdirList[:] = [d for d in subdirList if d not in exclude]
+    subdirList[:] = sorted([d for d in subdirList if d not in exclude])
     if dirName != "." and dirName != "./.git":
         main.write("\\section{" + dirName[3:] + "}\n")
         if dirName == other:
             main.write("\\setleadsheets{title-template = other}\n")
-        for song in fileList:
+        for song in sorted(fileList):
             if ".tex" in song: main.write("\t\\input{./" + dirName[2:]+"/"+song + "}\n")
         main.write("\n")
 main.write("\\end{multicols}\n")
