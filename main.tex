@@ -5,6 +5,10 @@
 \usepackage{leadsheets}
 \usepackage[landscape]{geometry}
 \usepackage{multicol}
+\usepackage{titlesec}
+
+\titleformat*{\section}{\LARGE\bfseries}
+\titleformat*{\subsection}{\Large\bfseries}
 
 \setleadsheets{
   title-template= custom ,
@@ -13,6 +17,7 @@
   chorus/name = R ,
   bridge/name = B ,
   intro/name = I ,
+  verses-label-format = \textbf ,
 }
 \definesongtitletemplate{custom}{
   \ifsongmeasuring{}{
@@ -27,12 +32,13 @@
 
 \setchords{
   minor = mi ,
+  major = maj ,
+  format = \bfseries
 }
 
 \title{Fajný spevník}
 \author{Dušan a Merlin}
 \date{}
-
 
 \begin{document}
 \maketitle
@@ -53,7 +59,9 @@
 	\input{./2Horkýže Slíže/vojak.tex}
 
 \section{Ostatné}
+\setleadsheets{title-template = other}
 	\input{./3Ostatné/blondava.tex}
+	\input{./3Ostatné/die_ableitung_von_sinus.tex}
 	\input{./3Ostatné/too_fast.tex}
 
 \end{multicols}

@@ -15,9 +15,9 @@ for dirName, subdirList, fileList in os.walk(rootDir):
     print(dirName)
     subdirList[:] = sorted([d for d in subdirList if d not in exclude])
     if dirName != "." and dirName != "./.git":
-        main.write("\\section{" + dirName[3:] + "}\n")
-        if dirName == other:
+        if dirName == ".\\3Ostatné":
             main.write("\\setleadsheets{title-template = other}\n")
+        main.write("\\section{" + dirName[3:] + "}\n")
         for song in sorted(fileList):
             if ".tex" in song: main.write("\t\\input{./" + dirName[2:]+"/"+song + "}\n")
         main.write("\n")
