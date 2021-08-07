@@ -1,10 +1,10 @@
 \documentclass[a4paper]{article}
 \usepackage[czech]{babel}
-
 \usepackage{leadsheets}
 \usepackage[landscape]{geometry}
 \usepackage{multicol}
 \usepackage{titlesec}
+\usepackage{hyperref}
 
 \titleformat*{\section}{\LARGE\bfseries}
 \titleformat*{\subsection}{\Large\bfseries}
