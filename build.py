@@ -1,6 +1,6 @@
 import os
 
-other = ".\Ostatné"
+other = ".\\3Ostatné"
 
 main = open("./main.tex","w",encoding="UTF-8")
 main.write("\n")
@@ -15,7 +15,7 @@ for dirName, subdirList, fileList in os.walk(rootDir):
     print(dirName)
     subdirList[:] = sorted([d for d in subdirList if d not in exclude])
     if dirName != "." and dirName != "./.git":
-        if dirName == ".\\3Ostatné":
+        if dirName == other:
             main.write("\\setleadsheets{title-template = other}\n")
         main.write("\\section{" + dirName[3:] + "}\n")
         for song in sorted(fileList):
