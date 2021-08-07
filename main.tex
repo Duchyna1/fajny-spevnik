@@ -1,4 +1,3 @@
-
 \documentclass[a4paper]{article}
 \usepackage[czech]{babel}
 
@@ -17,6 +16,8 @@
   chorus/name = R ,
   bridge/name = B ,
   intro/name = I ,
+  outro/name = O,
+  interlude/name = I,
   verses-label-format = \textbf ,
 }
 \definesongtitletemplate{custom}{
@@ -46,6 +47,7 @@
 \tableofcontents
 \clearpage
 \begin{multicols}{2}
+\setleadsheets{title-template = custom}
 \section{Miro Jaroš}
 	\input{./1Miro Jaroš/balon.tex}
 	\input{./1Miro Jaroš/ciste_rucky.tex}
@@ -54,15 +56,20 @@
 	\input{./1Miro Jaroš/strasidla.tex}
 	\input{./1Miro Jaroš/u_doktora.tex}
 
+\setleadsheets{title-template = custom}
 \section{Horkýže Slíže}
 	\input{./2Horkýže Slíže/cigarety.tex}
 	\input{./2Horkýže Slíže/vojak.tex}
 
 \setleadsheets{title-template = other}
+\section{Anime}
+	\input{./3Anime/deja_vu.tex}
+
+\setleadsheets{title-template = other}
 \section{Ostatné}
-	\input{./3Ostatné/blondava.tex}
-	\input{./3Ostatné/die_ableitung_von_sinus.tex}
-	\input{./3Ostatné/too_fast.tex}
+	\input{./4Ostatné/blondava.tex}
+	\input{./4Ostatné/die_ableitung_von_sinus.tex}
+	\input{./4Ostatné/too_fast.tex}
 
 \end{multicols}
 \end{document}

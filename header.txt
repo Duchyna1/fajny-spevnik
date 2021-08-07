@@ -16,6 +16,8 @@
   chorus/name = R ,
   bridge/name = B ,
   intro/name = I ,
+  outro/name = O,
+  interlude/name = I,
   verses-label-format = \textbf ,
 }
 \definesongtitletemplate{custom}{
