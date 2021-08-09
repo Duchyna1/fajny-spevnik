@@ -1,0 +1,29 @@
+name: Build LaTeX document
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+   build_latex:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Execute build script
+        run: python build.py
+      - name: Compile LaTeX document
+        uses: xu-cheng/latex-action@v2
+        with:
+          pre_compile: "tlmgr update --self && tlmgr update --all && tlmgr install leadsheets && tlmgr install translations && tlmgr install titlesec"
+          root_file: main.tex
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: PDF
+          path: main.pdf
