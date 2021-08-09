@@ -1,0 +1,1610 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.8.7)  7 AUG 2021 18:42
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Senbonzakura.tex
+(./Senbonzakura.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+
+! LaTeX Error: Environment song undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{song}
+                [
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{song}[
+                 
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no K in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no F in font nullfont!
+
+! LaTeX Error: Environment intro undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 	\begin{intro}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--12
+[]
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.13 		^
+        {Dm} ^{Dm} ^{C} ^{Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^{F}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 		^
+        {Dm} ^{Dm} ^{C} ^{Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^{F}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 13.
+! Double superscript.
+l.13 		^{Dm} ^
+              {Dm} ^{C} ^{Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^{F}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.13 		^{Dm} ^{Dm} ^
+                    {C} ^{Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^{F}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.13 		^{Dm} ^{Dm} ^{C} ^
+                         {Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^{F}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.13 		^{Dm} ^{Dm} ^{C} ^{Dm} ^
+                               {Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^{F}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.13 		^{Dm} ^{Dm} ^{C} ^{Dm} ^{Dm} ^
+                                     {C} ^{Dm} ^{C} ^{Dm} ^{F}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.13 		^{Dm} ^{Dm} ^{C} ^{Dm} ^{Dm} ^{C} ^
+                                          {Dm} ^{C} ^{Dm} ^{F}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.13 		^{Dm} ^{Dm} ^{C} ^{Dm} ^{Dm} ^{C} ^{Dm} ^
+                                                {C} ^{Dm} ^{F}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.13 ...} ^{Dm} ^{C} ^{Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^
+                                                  {Dm} ^{F}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.13 ...} ^{C} ^{Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^
+                                                  {F}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.15 		^{Dm} ^
+              {Dm} ^{C} ^{Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^{F} ^{Dm} ^{A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.15 		^{Dm} ^{Dm} ^
+                    {C} ^{Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^{F} ^{Dm} ^{A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.15 		^{Dm} ^{Dm} ^{C} ^
+                         {Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^{F} ^{Dm} ^{A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.15 		^{Dm} ^{Dm} ^{C} ^{Dm} ^
+                               {Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^{F} ^{Dm} ^{A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.15 		^{Dm} ^{Dm} ^{C} ^{Dm} ^{Dm} ^
+                                     {C} ^{Dm} ^{C} ^{Dm} ^{F} ^{Dm} ^{A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.15 		^{Dm} ^{Dm} ^{C} ^{Dm} ^{Dm} ^{C} ^
+                                          {Dm} ^{C} ^{Dm} ^{F} ^{Dm} ^{A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.15 		^{Dm} ^{Dm} ^{C} ^{Dm} ^{Dm} ^{C} ^{Dm} ^
+                                                {C} ^{Dm} ^{F} ^{Dm} ^{A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.15 ...} ^{Dm} ^{C} ^{Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^
+                                                  {Dm} ^{F} ^{Dm} ^{A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.15 ...} ^{C} ^{Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^
+                                                  {F} ^{Dm} ^{A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.15 ...} ^{Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^{F} ^
+                                                  {Dm} ^{A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.15 ...} ^{Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^{F} ^{Dm} ^
+                                                  {A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.17 		
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (132.9252pt too wide) in paragraph at lines 13--17
+[]$[][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (133.789pt too wide) in paragraph at lines 13--17
+[][][][][][][][][][][][][] 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.18 		^
+        {Bb} ^{C} ^{Dm} ^{Bb} ^{C} ^{Dm} ^{D/F} ^{Dm/G} ^{Dm/A}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 		^
+        {Bb} ^{C} ^{Dm} ^{Bb} ^{C} ^{Dm} ^{D/F} ^{Dm/G} ^{Dm/A}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Double superscript.
+l.18 		^{Bb} ^
+              {C} ^{Dm} ^{Bb} ^{C} ^{Dm} ^{D/F} ^{Dm/G} ^{Dm/A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.18 		^{Bb} ^{C} ^
+                   {Dm} ^{Bb} ^{C} ^{Dm} ^{D/F} ^{Dm/G} ^{Dm/A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.18 		^{Bb} ^{C} ^{Dm} ^
+                         {Bb} ^{C} ^{Dm} ^{D/F} ^{Dm/G} ^{Dm/A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.18 		^{Bb} ^{C} ^{Dm} ^{Bb} ^
+                               {C} ^{Dm} ^{D/F} ^{Dm/G} ^{Dm/A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.18 		^{Bb} ^{C} ^{Dm} ^{Bb} ^{C} ^
+                                    {Dm} ^{D/F} ^{Dm/G} ^{Dm/A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.18 		^{Bb} ^{C} ^{Dm} ^{Bb} ^{C} ^{Dm} ^
+                                          {D/F} ^{Dm/G} ^{Dm/A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.18 		^{Bb} ^{C} ^{Dm} ^{Bb} ^{C} ^{Dm} ^{D/F} ^
+                                                 {Dm/G} ^{Dm/A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.18 ...C} ^{Dm} ^{Bb} ^{C} ^{Dm} ^{D/F} ^{Dm/G} ^
+                                                  {Dm/A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.20 		^{Bb} ^
+              {C} ^{Dm} ^{Bb} ^{C} ^{Dm} ^{C} ^{Dm}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.20 		^{Bb} ^{C} ^
+                   {Dm} ^{Bb} ^{C} ^{Dm} ^{C} ^{Dm}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.20 		^{Bb} ^{C} ^{Dm} ^
+                         {Bb} ^{C} ^{Dm} ^{C} ^{Dm}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.20 		^{Bb} ^{C} ^{Dm} ^{Bb} ^
+                               {C} ^{Dm} ^{C} ^{Dm}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.20 		^{Bb} ^{C} ^{Dm} ^{Bb} ^{C} ^
+                                    {Dm} ^{C} ^{Dm}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.20 		^{Bb} ^{C} ^{Dm} ^{Bb} ^{C} ^{Dm} ^
+                                          {C} ^{Dm}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.20 		^{Bb} ^{C} ^{Dm} ^{Bb} ^{C} ^{Dm} ^{C} ^
+                                               {Dm}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.22 		
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (149.15356pt too wide) in paragraph at lines 18--22
+[]$[][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (84.02692pt too wide) in paragraph at lines 18--22
+[][][][][][][][][] 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{intro}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 	\end{intro}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment verse undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 	\begin{verse}
+                   		
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.26 		^
+        {Dm}daitan-futeki ni ^{Bb}haikara ^{C}kakumei \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 		^
+        {Dm}daitan-futeki ni ^{Bb}haikara ^{C}kakumei \\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{verse}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 	\end{verse}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.33 	\end{verse}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (70.96292pt too wide) in paragraph at lines 26--34
+[]$[]\OML/cmm/m/it/10 daitan \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (129.81158pt too wide) in paragraph at lines 26--34
+\OML/cmm/m/it/10 futekini[]haikara[]kakumei[] 
+ []
+
+
+Overfull \hbox (49.16846pt too wide) in paragraph at lines 26--34
+[]\OML/cmm/m/it/10 rairai \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (118.85858pt too wide) in paragraph at lines 26--34
+\OML/cmm/m/it/10 rakuraku[]hansen[]kokka[] 
+ []
+
+
+Overfull \hbox (66.76395pt too wide) in paragraph at lines 26--34
+[]\OML/cmm/m/it/10 hinomaru \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (144.25153pt too wide) in paragraph at lines 26--34
+\OML/cmm/m/it/10 jirushino[]nirinsha[]korogashi[] 
+ []
+
+
+Overfull \hbox (59.28177pt too wide) in paragraph at lines 26--34
+[]\OML/cmm/m/it/10 akuryou \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (77.365pt too wide) in paragraph at lines 26--34
+\OML/cmm/m/it/10 taisan[]IC[]BM[] 
+ []
+
+
+! LaTeX Error: Environment bridge undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 	\begin{bridge}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.36 		^
+        {Bb}kanjousen o ^{F}hashirinukete  \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 		^
+        {Bb}kanjousen o ^{F}hashirinukete  \\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{bridge}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 	\end{bridge}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.42 	\end{bridge}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (152.65993pt too wide) in paragraph at lines 36--43
+[]$[]\OML/cmm/m/it/10 kanjouseno[]hashirinukete[] 
+ []
+
+
+Overfull \hbox (55.69753pt too wide) in paragraph at lines 36--43
+[]\OML/cmm/m/it/10 touhon \OMS/cmsy/m/n/10 ^^@[]
+ []
+
+
+Overfull \hbox (90.92256pt too wide) in paragraph at lines 36--43
+\OML/cmm/m/it/10 seisou[]nannosono[] 
+ []
+
+
+Overfull \hbox (129.6331pt too wide) in paragraph at lines 36--43
+[]\OML/cmm/m/it/10 shounenshoujo[]sengoku \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (29.76402pt too wide) in paragraph at lines 36--43
+\OML/cmm/m/it/10 musou[] 
+ []
+
+
+Overfull \hbox (99.902pt too wide) in paragraph at lines 36--43
+[]\OML/cmm/m/it/10 ukiyonomanima[]ni[] 
+ []
+
+
+! LaTeX Error: Environment chorus undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 	\begin{chorus}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.45 		^
+        {Dm}Senbon^{F}zakura  ^{C}yoru ni ^{F}magire  \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 		^
+        {Dm}Senbon^{F}zakura  ^{C}yoru ni ^{F}magire  \\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.51 		
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (180.7323pt too wide) in paragraph at lines 45--51
+[]$[]\OML/cmm/m/it/10 Senbon[]zakura[]yoruni[]magire[] 
+ []
+
+
+Overfull \hbox (150.02113pt too wide) in paragraph at lines 45--51
+[]\OML/cmm/m/it/10 kiminokoe[]moto[]konanai[]yo[] 
+ []
+
+
+Overfull \hbox (148.2801pt too wide) in paragraph at lines 45--51
+\OML/cmm/m/it/10 koko[]wauta[]geha[]ganeno[]ori[] 
+ []
+
+
+Overfull \hbox (161.8515pt too wide) in paragraph at lines 45--51
+\OML/cmm/m/it/10 sono[]dantou[]daide[]mioroshi[]te[] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 		S
+        anzen-sekai  tokoyo no yami \\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no S in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 52--58
+[]
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.59 		^
+        {Dm} ^{Dm} ^{C} ^{Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^{F}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 		^
+        {Dm} ^{Dm} ^{C} ^{Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^{F}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Double superscript.
+l.59 		^{Dm} ^
+              {Dm} ^{C} ^{Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^{F}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.59 		^{Dm} ^{Dm} ^
+                    {C} ^{Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^{F}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.59 		^{Dm} ^{Dm} ^{C} ^
+                         {Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^{F}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.59 		^{Dm} ^{Dm} ^{C} ^{Dm} ^
+                               {Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^{F}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.59 		^{Dm} ^{Dm} ^{C} ^{Dm} ^{Dm} ^
+                                     {C} ^{Dm} ^{C} ^{Dm} ^{F}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.59 		^{Dm} ^{Dm} ^{C} ^{Dm} ^{Dm} ^{C} ^
+                                          {Dm} ^{C} ^{Dm} ^{F}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.59 		^{Dm} ^{Dm} ^{C} ^{Dm} ^{Dm} ^{C} ^{Dm} ^
+                                                {C} ^{Dm} ^{F}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.59 ...} ^{Dm} ^{C} ^{Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^
+                                                  {Dm} ^{F}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.59 ...} ^{C} ^{Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^
+                                                  {F}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.61 		^{Dm} ^
+              {Dm} ^{C} ^{Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^{F} ^{Dm} ^{A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.61 		^{Dm} ^{Dm} ^
+                    {C} ^{Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^{F} ^{Dm} ^{A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.61 		^{Dm} ^{Dm} ^{C} ^
+                         {Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^{F} ^{Dm} ^{A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.61 		^{Dm} ^{Dm} ^{C} ^{Dm} ^
+                               {Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^{F} ^{Dm} ^{A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.61 		^{Dm} ^{Dm} ^{C} ^{Dm} ^{Dm} ^
+                                     {C} ^{Dm} ^{C} ^{Dm} ^{F} ^{Dm} ^{A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.61 		^{Dm} ^{Dm} ^{C} ^{Dm} ^{Dm} ^{C} ^
+                                          {Dm} ^{C} ^{Dm} ^{F} ^{Dm} ^{A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.61 		^{Dm} ^{Dm} ^{C} ^{Dm} ^{Dm} ^{C} ^{Dm} ^
+                                                {C} ^{Dm} ^{F} ^{Dm} ^{A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.61 ...} ^{Dm} ^{C} ^{Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^
+                                                  {Dm} ^{F} ^{Dm} ^{A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.61 ...} ^{C} ^{Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^
+                                                  {F} ^{Dm} ^{A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.61 ...} ^{Dm} ^{Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^{F} ^
+                                                  {Dm} ^{A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.61 ...} ^{Dm} ^{C} ^{Dm} ^{C} ^{Dm} ^{F} ^{Dm} ^
+                                                  {A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.63 		
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (132.9252pt too wide) in paragraph at lines 59--63
+[]$[][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (133.789pt too wide) in paragraph at lines 59--63
+[][][][][][][][][][][][][] 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.64 		^
+        {Bb} ^{C} ^{Dm} ^{Bb} ^{C} ^{Dm} ^{D/F} ^{Dm/G} ^{Dm/A}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64 		^
+        {Bb} ^{C} ^{Dm} ^{Bb} ^{C} ^{Dm} ^{D/F} ^{Dm/G} ^{Dm/A}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Double superscript.
+l.64 		^{Bb} ^
+              {C} ^{Dm} ^{Bb} ^{C} ^{Dm} ^{D/F} ^{Dm/G} ^{Dm/A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.64 		^{Bb} ^{C} ^
+                   {Dm} ^{Bb} ^{C} ^{Dm} ^{D/F} ^{Dm/G} ^{Dm/A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.64 		^{Bb} ^{C} ^{Dm} ^
+                         {Bb} ^{C} ^{Dm} ^{D/F} ^{Dm/G} ^{Dm/A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.64 		^{Bb} ^{C} ^{Dm} ^{Bb} ^
+                               {C} ^{Dm} ^{D/F} ^{Dm/G} ^{Dm/A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.64 		^{Bb} ^{C} ^{Dm} ^{Bb} ^{C} ^
+                                    {Dm} ^{D/F} ^{Dm/G} ^{Dm/A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.64 		^{Bb} ^{C} ^{Dm} ^{Bb} ^{C} ^{Dm} ^
+                                          {D/F} ^{Dm/G} ^{Dm/A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.64 		^{Bb} ^{C} ^{Dm} ^{Bb} ^{C} ^{Dm} ^{D/F} ^
+                                                 {Dm/G} ^{Dm/A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.64 ...C} ^{Dm} ^{Bb} ^{C} ^{Dm} ^{D/F} ^{Dm/G} ^
+                                                  {Dm/A}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.66 		^{Bb} ^
+              {C} ^{Dm} ^{Bb} ^{C} ^{Dm} ^{C} ^{Dm}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.66 		^{Bb} ^{C} ^
+                   {Dm} ^{Bb} ^{C} ^{Dm} ^{C} ^{Dm}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.66 		^{Bb} ^{C} ^{Dm} ^
+                         {Bb} ^{C} ^{Dm} ^{C} ^{Dm}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.66 		^{Bb} ^{C} ^{Dm} ^{Bb} ^
+                               {C} ^{Dm} ^{C} ^{Dm}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.66 		^{Bb} ^{C} ^{Dm} ^{Bb} ^{C} ^
+                                    {Dm} ^{C} ^{Dm}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.66 		^{Bb} ^{C} ^{Dm} ^{Bb} ^{C} ^{Dm} ^
+                                          {C} ^{Dm}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.66 		^{Bb} ^{C} ^{Dm} ^{Bb} ^{C} ^{Dm} ^{C} ^
+                                               {Dm}
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+
+! LaTeX Error: \begin{document} ended by \end{chorus}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 	\end{chorus}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.68 	\end{chorus}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (149.15356pt too wide) in paragraph at lines 64--69
+[]$[][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (84.02692pt too wide) in paragraph at lines 64--69
+[][][][][][][][][] 
+ []
+
+
+! LaTeX Error: Environment verse* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 	\begin{verse*}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.71 		h
+        yakusen-renma no mitame wa shoukou \\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no K in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{verse*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78 	\end{verse*}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 71--79
+[]
+ []
+
+
+! LaTeX Error: Environment bridge undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 	\begin{bridge}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81 		z
+        enjoumon o kugurinukete  \\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{bridge}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87 	\end{bridge}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 81--88
+[]
+ []
+
+
+! LaTeX Error: Environment chorus undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89 	\begin{chorus}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 	\end
+          {chorus}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{chorus}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 	\end{chorus}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment bridge undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.93 	\begin{bridge}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.94 		^
+        {Bb}kanjousen o ^{F}hashirinukete  \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.94 		^
+        {Bb}kanjousen o ^{F}hashirinukete  \\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{bridge}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100 	\end{bridge}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.100 	\end{bridge}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (152.65993pt too wide) in paragraph at lines 94--101
+[]$[]\OML/cmm/m/it/10 kanjouseno[]hashirinukete[] 
+ []
+
+
+Overfull \hbox (55.69753pt too wide) in paragraph at lines 94--101
+[]\OML/cmm/m/it/10 touhon \OMS/cmsy/m/n/10 ^^@[]
+ []
+
+
+Overfull \hbox (90.92256pt too wide) in paragraph at lines 94--101
+\OML/cmm/m/it/10 seisou[]nannosono[] 
+ []
+
+
+Overfull \hbox (129.6331pt too wide) in paragraph at lines 94--101
+[]\OML/cmm/m/it/10 shounenshoujo[]sengoku \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (29.76402pt too wide) in paragraph at lines 94--101
+\OML/cmm/m/it/10 musou[] 
+ []
+
+
+Overfull \hbox (99.902pt too wide) in paragraph at lines 94--101
+[]\OML/cmm/m/it/10 ukiyonomanima[]ni[] 
+ []
+
+
+! LaTeX Error: Environment chorus undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.102 	\begin{chorus}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.103 		^
+         {Dm}Senbon^{F}zakura  ^{C}yoru ni ^{F}magire  \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 		^
+         {Dm}Senbon^{F}zakura  ^{C}yoru ni ^{F}magire  \\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.109 		
+        
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (180.7323pt too wide) in paragraph at lines 103--109
+[]$[]\OML/cmm/m/it/10 Senbon[]zakura[]yoruni[]magire[] 
+ []
+
+
+Overfull \hbox (150.02113pt too wide) in paragraph at lines 103--109
+[]\OML/cmm/m/it/10 kiminokoe[]moto[]konanai[]yo[] 
+ []
+
+
+Overfull \hbox (148.2801pt too wide) in paragraph at lines 103--109
+\OML/cmm/m/it/10 koko[]wauta[]geha[]ganeno[]ori[] 
+ []
+
+
+Overfull \hbox (150.52505pt too wide) in paragraph at lines 103--109
+\OML/cmm/m/it/10 sono[]dantou[]daide[]tiobori[]te[] 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.110 		^
+         {Em}Senbon^{G}zakura  ^{D}yoru ni ^{G}magire  \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 		^
+         {Em}Senbon^{G}zakura  ^{D}yoru ni ^{G}magire  \\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.116 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (180.91795pt too wide) in paragraph at lines 110--116
+[]$[]\OML/cmm/m/it/10 Senbon[]zakura[]yoruni[]magire[] 
+ []
+
+
+Overfull \hbox (142.74144pt too wide) in paragraph at lines 110--116
+[]\OML/cmm/m/it/10 kimigauta[]iboku[]waodo[]ru[] 
+ []
+
+
+Overfull \hbox (148.46576pt too wide) in paragraph at lines 110--116
+\OML/cmm/m/it/10 koko[]wauta[]geha[]ganeno[]ori[] 
+ []
+
+
+Overfull \hbox (156.25827pt too wide) in paragraph at lines 110--116
+\OML/cmm/m/it/10 saa[]kousenjuu[]o[]uchimaku[]re[] 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{chorus}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.117 	\end{chorus}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{song}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.119 \end{song}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> Senbonzakura.tex
+                    
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 24 strings out of 478994
+ 492 string characters out of 5864752
+ 288044 words of memory out of 5000000
+ 17610 multiletter control sequences out of 15000+600000
+ 403430 words of font info for 27 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 18i,2n,15p,92b,62s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
