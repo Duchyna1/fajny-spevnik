@@ -9,7 +9,7 @@ h.close()
 main.writelines(_h)
 main.write("\n")
 rootDir = '.'
-exclude = [".git"]
+exclude = [".git",".github"]
 for dirName, subdirList, fileList in os.walk(rootDir):
     print(dirName)
     subdirList[:] = sorted([d for d in subdirList if d not in exclude])
